@@ -1,0 +1,23 @@
+.Slide1 {
+    background-image: url(../Images/bgggg.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.Slide2{
+    background-image: url(../Images/cover.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.Slide3{
+    background-image: url(../Images/312325.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.Slide4{
+    background-image: url(../Images/312323.jpg);
+    background-position: center;
+    background-size: cover;
+}
